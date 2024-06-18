@@ -15,7 +15,7 @@ import Testimonials from "./components/testimonials/Testimonials";
 function App() {
   return (
     <>
-      <div style={{ backgroundColor: "#b3c1c7", padding: "20px" }}>
+      <div style={{ backgroundColor: "", padding: "20px" }}>
         <Header />
         <main className="main">
           <Home />
